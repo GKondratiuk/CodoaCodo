@@ -1,0 +1,2 @@
+algoritmo es un listado de cosas sucesivas para satisfacer ciertas necesidades. 
+ej: ''Como subir una escalera'' es un algoritmo
